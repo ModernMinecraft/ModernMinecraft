@@ -11,7 +11,7 @@
 /paulscode
 *.cfg
 fmlversion.properties
-forgelogo.png
+forge_logo.png
 mcp.png
 mcpmod.info
-start.java
+Start.java
